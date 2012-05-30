@@ -14,9 +14,19 @@ Rolify
 Cucumber
 RSpec
 Bootstrap-sass
-
-Can implement:
+Rails Admin
 Backbone-on-rails
+
+Backbone-App
+===
+The actual backbone code is started by visiting backbone_app/index.  This route can be changed, but it's good to start with. 
+
+The basic public website uses the home_controller, and the home views.  
+
+Visiting /backbone_app/index will load the $(document).ready... code, which will initialize a new App Base backbone app.  That app initializer code is in app_base.js.coffee.  
+
+
+
 
 <code>
 ActionMailer:
@@ -36,3 +46,4 @@ to use gmail:
 TODO:
 * setup backbone-on-rails to load with seperate controller
 * simplform --bootstrap
+* setup devise authentication so only authenticated users can access backbone app

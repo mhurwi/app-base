@@ -1,4 +1,6 @@
 AppBase::Application.routes.draw do
+  get "backbone_app/index"
+
   mount RailsAdmin::Engine => '/admin', :as => 'rails_admin'
 
   authenticated :user do
