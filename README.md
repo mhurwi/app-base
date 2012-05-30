@@ -7,15 +7,15 @@ From Daniel Kehoe's tutorial [rails-mongoid-devise](http://railsapps.github.com/
 
 for bootstrap and cancan, [see this tutorial](http://railsapps.github.com/tutorial-rails-bootstrap-devise-cancan.html)
 
-Mongoid
-Devise
-CanCan
-Rolify
-Cucumber
-RSpec
-Bootstrap-sass
-Rails Admin
-Backbone-on-rails
+* Mongoid
+* Devise
+* CanCan
+* Rolify
+* Cucumber
+* RSpec
+* Bootstrap-sass
+* Rails Admin
+* Backbone-on-rails
 
 Backbone-App
 ===
@@ -45,6 +45,5 @@ to use gmail:
 </code>
 
 TODO:
-* setup backbone-on-rails to load with seperate controller
-* simplform --bootstrap
+* simpleform --bootstrap
 * setup devise authentication so only authenticated users can access backbone app
