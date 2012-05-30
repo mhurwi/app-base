@@ -22,3 +22,5 @@ gem "devise", ">= 1.4.9"
 gem 'cancan'
 gem 'rolify'
 gem 'bootstrap-sass'
+gem 'backbone-on-rails'
+gem 'rails_admin'
