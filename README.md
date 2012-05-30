@@ -25,6 +25,7 @@ The basic public website uses the home_controller, and the home views.
 
 Visiting /backbone_app/index will load the $(document).ready... code, which will initialize a new App Base backbone app.  That app initializer code is in app_base.js.coffee.  
 
+Reference railscasts [323](http://railscasts.com/episodes/323-backbone-on-rails-part-1) and [325](http://railscasts.com/episodes/325-backbone-on-rails-part-2).
 
 
 
