@@ -34,4 +34,5 @@ to use gmail:
 </code>
 
 TODO:
-* setup backbone-on-rails
+* setup backbone-on-rails to load with seperate controller
+* simplform --bootstrap
