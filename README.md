@@ -1,4 +1,5 @@
-== App Base
+App Base
+===
 
 trying to get a template running to base an application off.
 
@@ -17,6 +18,7 @@ Bootstrap-sass
 Can implement:
 Backbone-on-rails
 
+<code>
 ActionMailer:
 configure email host in production and test,
 to use gmail:
@@ -29,7 +31,7 @@ to use gmail:
   	user_name: ENV["GMAIL_USERNAME"],
   	password: ENV["GMAIL_PASSWORD"]
 	}
-
+</code>
 
 TODO:
 * setup backbone-on-rails
